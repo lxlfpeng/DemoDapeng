@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
-import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
     private TabLayout mTabLayout;
@@ -31,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
         mTabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
             @Override
             public void onTabSelected(TabLayout.Tab tab) {
-                Log.d("TAB", "onTabSelected()" + tab.getPosition());
+                //Log.d("TAB", "onTabSelected()" + tab.getPosition());
                 setCurrentPage(tab.getPosition());
             }
 
