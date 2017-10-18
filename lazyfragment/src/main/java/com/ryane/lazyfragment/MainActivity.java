@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void initTabLayout() {
         mTabLayout.addTab(mTabLayout.newTab().setText("人物"));
-      //  mTabLayout.addTab(mTabLayout.newTab().setText("风景"));
+        mTabLayout.addTab(mTabLayout.newTab().setText("风景"));
         setCurrentPage(0);
         mTabLayout.getTabAt(0).select();
         mTabLayout.addOnTabSelectedListener(new TabLayout.OnTabSelectedListener() {
@@ -36,12 +36,12 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onTabUnselected(TabLayout.Tab tab) {
-             //   Log.d("TAB", "onTabUnselected()" + tab.getPosition());
+                //   Log.d("TAB", "onTabUnselected()" + tab.getPosition());
             }
 
             @Override
             public void onTabReselected(TabLayout.Tab tab) {
-               // Log.d("TAB", "onTabReselected()" + tab.getPosition());
+                // Log.d("TAB", "onTabReselected()" + tab.getPosition());
             }
         });
     }
