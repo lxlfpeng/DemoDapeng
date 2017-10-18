@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DemoDapeng.iml" filepath="$PROJECT_DIR$/DemoDapeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cionchange/cionchange.iml" filepath="$PROJECT_DIR$/cionchange/cionchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazyfragment/lazyfragment.iml" filepath="$PROJECT_DIR$/lazyfragment/lazyfragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/retrofitupload/retrofitupload.iml" filepath="$PROJECT_DIR$/retrofitupload/retrofitupload.iml" />
+    </modules>
+  </component>
+</project>
