@@ -24,9 +24,6 @@ public class MainActivity extends AppCompatActivity {
         } catch (PackageManager.NameNotFoundException e) {
             e.printStackTrace();
         }
-
-
-
     }
 
     public void changeToIcon1(View v) {
