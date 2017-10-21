@@ -1,1 +1,1 @@
-include ':retrofitupload', ':lazyfragment', ':cionchange'
+include ':retrofitupload', ':lazyfragment', ':cionchange', ':screensize'
