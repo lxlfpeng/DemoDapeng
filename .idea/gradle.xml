@@ -9,8 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/cionchange" />
+            <option value="$PROJECT_DIR$/iosdialog" />
             <option value="$PROJECT_DIR$/lazyfragment" />
             <option value="$PROJECT_DIR$/retrofitupload" />
+            <option value="$PROJECT_DIR$/rxjava2demo" />
             <option value="$PROJECT_DIR$/screensize" />
           </set>
         </option>

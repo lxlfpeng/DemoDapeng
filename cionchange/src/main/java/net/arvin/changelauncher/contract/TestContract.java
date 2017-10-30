@@ -6,5 +6,4 @@ package net.arvin.changelauncher.contract;
 
 public class TestContract {
 
-
 }

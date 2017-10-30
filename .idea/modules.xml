@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DemoDapeng.iml" filepath="$PROJECT_DIR$/DemoDapeng.iml" />
       <module fileurl="file://$PROJECT_DIR$/cionchange/cionchange.iml" filepath="$PROJECT_DIR$/cionchange/cionchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iosdialog/iosdialog.iml" filepath="$PROJECT_DIR$/iosdialog/iosdialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/lazyfragment/lazyfragment.iml" filepath="$PROJECT_DIR$/lazyfragment/lazyfragment.iml" />
       <module fileurl="file://$PROJECT_DIR$/retrofitupload/retrofitupload.iml" filepath="$PROJECT_DIR$/retrofitupload/retrofitupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" filepath="$PROJECT_DIR$/rxjava2demo/rxjava2demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/screensize/screensize.iml" filepath="$PROJECT_DIR$/screensize/screensize.iml" />
     </modules>
   </component>
