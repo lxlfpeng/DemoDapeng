@@ -1,1 +1,1 @@
-include ':retrofitupload', ':lazyfragment', ':cionchange', ':screensize', ':rxjava2demo', ':iosdialog'
+include ':retrofitupload', ':lazyfragment', ':cionchange', ':screensize', ':rxjava2demo', ':iosdialog', ':uitlscollection'
